@@ -1,0 +1,11 @@
+{
+    "name": "VK music",
+    "config": [
+        {
+           "discord_id": null,
+           "vk_id": null,
+           "vk_api_token": null,
+           "search": "google"
+        }
+    ]
+}
