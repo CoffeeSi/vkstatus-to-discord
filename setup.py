@@ -13,7 +13,7 @@ setup(
     package_dir={"":"vk-discord"},
     packages=find_packages(where="vk-discord"),
     long_description=long_description,
-    url="",
+    url="https://github.com/CoffeeSi/vkstatus-to-discord",
     author="CoffeeSi",
     author_email="ewgenik02032006@gmail.com",
     license="MIT",
